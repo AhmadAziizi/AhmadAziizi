@@ -20,9 +20,11 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Engineering student who enjoys building practical projects and improving through hands-on learning.
+I am a Computer Engineering student at Marmara University with an interest in software development, algorithms, and problem solving.
 
-My current focus is writing cleaner code, strengthening my problem-solving skills, and preparing for software engineering internship opportunities.
+I enjoy learning new concepts quickly and applying them through practical projects. I am continuously improving my programming skills through university coursework, personal learning, and hands-on development.
+
+Currently, I am looking for software engineering internship opportunities where I can learn from real-world projects, contribute to a team, and grow as a developer.
 
 ---
 
@@ -32,12 +34,13 @@ My current focus is writing cleaner code, strengthening my problem-solving skill
 
 ---
 
-## 📌 What I’m Building
+## 📌 What I’m Working On
 
-- 🎮 Game development projects  
-- ⚙️ C-based systems and algorithm projects  
-- 🧠 Data structures and problem-solving projects  
-- 🚀 A stronger portfolio for software engineering internships  
+- 🎮 Building Java and JavaFX projects  
+- ⚙️ Practicing C through systems and algorithm-based projects  
+- 🧠 Improving my understanding of data structures and algorithms  
+- 💻 Writing cleaner and more organized code  
+- 🌱 Learning by building, testing, and improving my projects  
 
 ---
 
