@@ -1,45 +1,46 @@
-<h1 align="center">Ahmad Azizi</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Azizi</h1>
+
+<h3 align="center">Computer Engineering Student at Marmara University</h3>
 
 <p align="center">
-Computer Engineering Student at Marmara University  
-<br>
-Building projects in Java, C, Algorithms, Data Structures, and Software Development.
+💻 Java & C • 🧠 Algorithms • 📊 Data Structures • 🚀 Software Development
 </p>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-| Project | Focus | Tech |
+| Project | What it shows | Tech |
 |---|---|---|
-| [Tower Defense Game](https://github.com/AhmadAziizi/Tower-Defense-Game-JavaFX) | JavaFX game with levels, towers, enemies, and game logic | Java, JavaFX, OOP |
-| [String Matching Algorithm Comparison](https://github.com/AhmadAziizi/String-Matching-Algorithm-Comparison) | Comparison of Brute Force, Horspool, and Boyer-Moore algorithms | Java, Algorithms |
-| [CPU Scheduling with Binomial Heap](https://github.com/AhmadAziizi/CPU-Scheduling-Binomial-Heap) | CPU scheduling simulation using a custom priority queue | C, Data Structures |
-| [Haskell Projects](https://github.com/AhmadAziizi/haskell99) | Functional programming practice and problem solving | Haskell |
+| 🎮 [Tower Defense Game - JavaFX](https://github.com/AhmadAziizi/Tower-Defense-Game-JavaFX) | A desktop tower defense game with levels, enemies, towers, health system, and gameplay logic. | Java, JavaFX, OOP |
+| 🔎 [String Matching Algorithm Comparison](https://github.com/AhmadAziizi/String-Matching-Algorithm-Comparison) | Compares Brute Force, Horspool, and Boyer-Moore algorithms using execution time and character comparisons. | Java, Algorithms |
+| ⚙️ [CPU Scheduling - Binomial Heap](https://github.com/AhmadAziizi/CPU-Scheduling-Binomial-Heap) | Simulates CPU task scheduling using a Binomial Heap priority queue and analyzes waiting time. | C, Data Structures, OS |
 
 ---
 
-## What I Work On
+## 👨‍💻 About Me
 
-- Java desktop applications
-- C programming and data structures
-- Algorithm analysis and optimization
-- University and personal software projects
+I am a Computer Engineering student who enjoys building practical projects and improving through hands-on learning.
 
----
-
-## Tech Stack
-
-`Java` `C` `Haskell` `JavaFX` `OOP` `Data Structures` `Algorithms` `Git` `GitHub`
+My current focus is writing cleaner code, strengthening my problem-solving skills, and preparing for software engineering internship opportunities.
 
 ---
 
-## Currently
+## 🛠 Tech Stack
 
-Seeking software engineering internship opportunities where I can learn, contribute, and gain real project experience.
+`Java` `C` `Haskell` `OOP` `Data Structures` `Algorithms` `Git` `GitHub`
 
 ---
 
-## Connect
+## 📌 What I’m Building
+
+- 🎮 Game development projects  
+- ⚙️ C-based systems and algorithm projects  
+- 🧠 Data structures and problem-solving projects  
+- 🚀 A stronger portfolio for software engineering internships  
+
+---
+
+## 📫 Connect
 
 [LinkedIn](https://www.linkedin.com/in/ahmad-azizi-835670418)
