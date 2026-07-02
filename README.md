@@ -46,4 +46,4 @@ Currently, I am looking for software engineering internship opportunities where 
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/ahmad-azizi-835670418)
+[LinkedIn](https://www.linkedin.com/in/ahmad-aziizi)
