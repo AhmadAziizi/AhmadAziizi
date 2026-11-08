@@ -20,30 +20,13 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Engineering student at Marmara University with an interest in software development, algorithms, and problem solving.
+I am a Computer Engineering student at Marmara University.
+I enjoy learning new concepts quickly and applying them through practical projects.
+I am continuously improving my programming skills through university coursework, personal learning, and hands-on development.
 
-I enjoy learning new concepts quickly and applying them through practical projects. I am continuously improving my programming skills through university coursework, personal learning, and hands-on development.
 
-Currently, I am looking for software engineering internship opportunities where I can learn from real-world projects, contribute to a team, and grow as a developer.
-
----
-
-## 🛠 Tech Stack
-
-`Java` `C` `Haskell` `OOP` `Data Structures` `Algorithms` `Git` `GitHub`
 
 ---
-
-## 📌 What I’m Working On
-
-- 🎮 Building Java and JavaFX projects  
-- ⚙️ Practicing C through systems and algorithm-based projects  
-- 🧠 Improving my understanding of data structures and algorithms  
-- 💻 Writing cleaner and more organized code  
-- 🌱 Learning by building, testing, and improving my projects  
-
----
-
 ## 📫 Connect
 
 [LinkedIn](https://www.linkedin.com/in/ahmad-aziizi)
